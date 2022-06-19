@@ -8,7 +8,7 @@ A responsive theme for Nginx Fancyindex module. Minimal, modern and simple. Come
 ## Setup
 ```bash
 $ git clone git@github.com/Cath0dd/nginx-autoindex-fancytheme.git
-$ mv nginx-autoindex-fancytheme /you-site-dir/.indexer
+$ mv nginx-autoindex-fancytheme/.indexer /you-site-dir/.indexer
 
 $ cd /you-site-dir/.indexer
 $ rm -rf .git*
