@@ -10,9 +10,6 @@ A responsive theme for Nginx Fancyindex module. Minimal, modern and simple. Come
 $ git clone git@github.com/Cath0dd/nginx-autoindex-fancytheme.git
 $ mv nginx-autoindex-fancytheme/.indexer /you-site-dir/.indexer
 
-$ cd /you-site-dir/.indexer
-$ rm -rf .git*
-
 $ sudo nano /etc/nginx/sites-available/you-server-name
 
 # example config for nginx see in example.conf
