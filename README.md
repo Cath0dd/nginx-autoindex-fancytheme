@@ -16,6 +16,18 @@ $ sudo nano /etc/nginx/sites-available/you-server-name
 
 $ sudo ln -s /etc/nginx/sites-available/you-server-name /etc/nginx/sites-enabled/you-server-name
 ```
+## Screenshots
+![index](https://github.com/Cath0dd/nginx-autoindex-fancytheme/blob/main/screenshot/index-act.png?raw=true)
+<details>
+  <summary>More screenshots</summary>
+  
+  ![index](https://github.com/Cath0dd/nginx-autoindex-fancytheme/blob/main/screenshot/index.png?raw=true)
+  
+  ![404](https://github.com/Cath0dd/nginx-autoindex-fancytheme/blob/main/screenshot/404.png?raw=true)
+  
+  ![403](https://github.com/Cath0dd/nginx-autoindex-fancytheme/blob/main/screenshot/403.png?raw=true)
+</details>
+
 ## License
 
 [![GitHub license](https://img.shields.io/badge/license-MIT-green)](https://github.com/Cath0dd/nginx-autoindex-fancytheme/blob/main/LICENSE)
