@@ -171,8 +171,33 @@ th {
 }
 
 th:first-of-type {
-	width: 68% !important;
 	padding-left: 6px;
+}
+
+@media (min-width: 500px){
+	th:first-of-type {
+		width: 31% !important;
+	}
+}
+@media (min-width: 800px){
+	th:first-of-type {
+		width: 59% !important;
+	}
+}
+@media (min-width: 1024px){
+	th:first-of-type {
+		width: 63% !important;
+	}
+}
+@media (min-width: 1280px){
+	th:first-of-type {
+		width: 66% !important;
+	}
+}
+@media (min-width: 1400px){
+	th:first-of-type {
+		width: 68% !important;
+	}
 }
 
 th:last-of-type {
@@ -200,7 +225,7 @@ td a {
 footer {
 	font-size:12px;
 	text-align:center;
-	padding-top: 20px;
+	padding: 20px 0 20px 0;
 	color: #666;
 }
 
