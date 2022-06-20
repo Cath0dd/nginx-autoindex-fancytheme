@@ -201,9 +201,10 @@ footer {
 	font-size:12px;
 	text-align:center;
 	padding-top: 20px;
+	color: #666;
 }
 
 footer a {
-	text-decoration: underline;
-	color:#FFFFFF;
+	text-decoration: none;
+	color:#666;
 }
